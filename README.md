@@ -4,4 +4,4 @@ Custom scripts used in the Algorithms in Bioinformatics course at Wageningen Uni
  *Genome assembly
  *Sequence alignment
  *Mutual information
- *Graph: Inference networming
+ *Graph: Inference networking
